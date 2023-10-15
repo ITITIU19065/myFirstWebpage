@@ -1,0 +1,16 @@
+
+/*PC*/
+
+/*TABLET*/
+
+/*MOBILE*/
+@media (max-width: 750px){
+
+    #nav > li{
+        display: block;
+    }
+
+    #header .search-btn{
+        display: none;
+    }
+}
